@@ -14,10 +14,10 @@ BEFORE YOU PUBLISH — REPLACE THESE PLACEHOLDERS
 ------------------------------------------------
 Open js/script.js in any text editor and change the top lines:
 
-  phone:      "+91 90000 00000"
-  phoneDial:  "+919000000000"
-  whatsapp:   "919000000000"
-  email:      "info@laxmipraveenaassociates.com"
+  phone:      "+91 6300404393"
+  phoneDial:  "+916300404393"
+  whatsapp:   "916300404393"
+  email:      "kathipraveena@gmail.com"
 
 Then open EVERY .html file, find "2nd Floor, Sai Enclave..." and
 replace with your real office address (it appears in the top bar,
