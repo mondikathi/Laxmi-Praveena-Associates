@@ -4,10 +4,10 @@
 
 // ---- EDIT YOUR CONTACT DETAILS HERE (used by forms/buttons) ----
 const SITE_CONTACT = {
-  phone: "+91 90000 00000",           // Replace with real phone number
-  phoneDial: "+919000000000",         // Same number, no spaces, for tel: links
-  whatsapp: "919000000000",           // Country code + number, no + or spaces
-  email: "info@laxmipraveenaassociates.com"
+  phone: "+91 6300404393",           // Replace with real phone number
+  phoneDial: "+916300404393",         // Same number, no spaces, for tel: links
+  whatsapp: "916300404393",           // Country code + number, no + or spaces
+  email: "kathipraveena@gmail.com"
 };
 
 document.addEventListener("DOMContentLoaded", function () {
